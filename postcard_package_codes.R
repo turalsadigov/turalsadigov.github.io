@@ -1,0 +1,5 @@
+postcards::create_postcard(template = "jolla")
+postcards::create_postcard(template = "jolla-blue")
+postcards::create_postcard(template = "trestles")
+postcards::create_postcard(template = "onofre")
+postcards::create_postcard(template = "solana")

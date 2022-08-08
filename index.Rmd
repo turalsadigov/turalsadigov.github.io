@@ -1,0 +1,39 @@
+---
+title: "Tural Sadigov"
+image: "profil2.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/tural-sadigov-49ba7418/"
+  - label: GitHub
+    url: "https://github.com/turalsadigov"
+  - label: Netlifly
+    url: "https://tsadigov.netlify.app/"
+  - label: Email
+    url: "mailto:tsadigov@hamilton.edu"
+output:
+  postcards::trestles
+---
+
+## Bio
+
+Hi! I am Tural Sadigov, a Visiting Assistant Professor of Mathematics and Statistics at [Hamilton College.](https://www.hamilton.edu/) I am an applied mathematician by training. Since 2015, I have become fascinated by the power of data, and the areas of machine learning and statistics. I now teach data science and statistics courses, research in the intersection of applied mathematics and deep learning, and keep up with new innovations in the data science world.
+
+I implement active learning strategies in my classes with various mini and not-so-mini projects. I believe in learning via teaching and engagement.
+
+In my free time, I play with my son, and watch and play soccer.
+
+## Education
+
+[**Indiana University**](https://www.indiana.edu/)\| **Bloomington, IN**
+
+Ph.D. in Applied Mathematics \| May 2015
+
+[**Boğaziçi University**](http://www.boun.edu.tr/en_US)**\| Istanbul, Turkey**
+
+B.S. in Mathematics \| May 2008
+
+## Experience
+
+**Hamilton College**\| Visiting Assistant Professor\| July 2020 - Present
+
+[**SUNY Polytechnic Institue**](https://sunypoly.edu/)\| Lecturer\| September 2015 - May 2020
