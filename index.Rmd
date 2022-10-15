@@ -10,7 +10,7 @@ links:
     url: "https://tsadigov.netlify.app/"
   - label: Email
     url: "mailto:tsadigov@hamilton.edu"
-  - label: Resume
+  - label: CV
     url: "https://github.com/turalsadigov/turalsadigov.github.io/blob/main/CV.pdf"
 output:
   postcards::trestles
