@@ -11,7 +11,7 @@ links:
   - label: Email
     url: "mailto:tsadigov@hamilton.edu"
   - label: CV
-    url: "https://github.com/turalsadigov/turalsadigov.github.io/blob/main/CV.pdf"
+    url: "https://github.com/turalsadigov/resume/blob/main/tural_sadigov_resume_December_2022.pdf"
 output:
   postcards::trestles
 ---
