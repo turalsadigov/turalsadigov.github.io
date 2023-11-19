@@ -22,14 +22,14 @@ I now use data to improve the range of EV batteries at the same time keeping the
 
 ## Education
 
-[**Indiana University**](https://www.indiana.edu/)\| **Bloomington, IN** \| Ph.D. in Applied Mathematics \| May 2015
+[**Indiana University**](https://www.indiana.edu/){target="_blank"}\| **Bloomington, IN** \| Ph.D. in Applied Mathematics \| May 2015
 
-[**Boğaziçi University**](http://www.boun.edu.tr/en_US)**\| Istanbul, Turkey** \| B.S. in Mathematics \| May 2008
+[**Boğaziçi University**](http://www.boun.edu.tr/en_US){target="_blank"}**\| Istanbul, Turkey** \| B.S. in Mathematics \| May 2008
 
 ## Experience
 
-[**Sepion Technologies**](https://sepiontechnologies.com/)\| Staff Data Scientist \| February 2023 - Present
+[**Sepion Technologies**](https://sepiontechnologies.com/){target="_blank"}\| Staff Data Scientist \| February 2023 - Present
 
-[**Hamilton College**](https://www.hamilton.edu/)\| Visiting Assistant Professor\| July 2020 - 2023
+[**Hamilton College**](https://www.hamilton.edu/){target="_blank"}\| Visiting Assistant Professor\| July 2020 - 2023
 
-[**SUNY Polytechnic Institue**](https://sunypoly.edu/)\| Lecturer\| September 2015 - May 2020
+[**SUNY Polytechnic Institue**](https://sunypoly.edu/){target="_blank"}\| Lecturer\| September 2015 - May 2020
