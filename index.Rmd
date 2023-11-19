@@ -1,41 +1,35 @@
 ---
 title: "Tural Sadigov"
-image: "profil2.jpeg"
+image: "new-profil-photo.jpeg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/tural-sadigov-49ba7418/"
   - label: GitHub
     url: "https://github.com/turalsadigov"
-  - label: Netlifly
-    url: "https://tsadigov.netlify.app/"
+  - label: Resume
+    url: "https://github.com/turalsadigov/resume/blob/main/tural_sadigov_resume_single_page.pdf"
   - label: Email
-    url: "mailto:tsadigov@hamilton.edu"
-  - label: CV
-    url: "https://github.com/turalsadigov/resume/blob/main/tural_sadigov_resume_December_2022.pdf"
+    url: "mailto:turalsadikov@gmail.com"
 output:
   postcards::trestles
 ---
 
 ## Bio
 
-Hi! I am Tural Sadigov, a Visiting Assistant Professor of Mathematics and Statistics at [Hamilton College.](https://www.hamilton.edu/) I am an applied mathematician by training. Since 2015, I have become fascinated by the power of data, and the areas of machine learning and statistics. I now teach data science and statistics courses, research in the intersection of applied mathematics and deep learning, and keep up with new innovations in the data science world.
+Hi! I am Tural Sadigov, a staff data scientist at [Sepion Technologies](https://sepiontechnologies.com/) in the San Francisco Bay area. I am an applied mathematician by training. Since 2015, I have become fascinated by the power of data, and the areas of machine learning and statistics. 
 
-I implement active learning strategies in my classes with various mini and not-so-mini projects. I believe in learning via teaching and engagement.
-
-In my free time, I play with my son, and watch and play soccer.
+I now use data to improve the range of EV batteries at the same time keeping their cost down and making them safer. In my free time, I play with my son, and watch and play soccer.
 
 ## Education
 
-[**Indiana University**](https://www.indiana.edu/)\| **Bloomington, IN**
+[**Indiana University**](https://www.indiana.edu/)\| **Bloomington, IN** \| Ph.D. in Applied Mathematics \| May 2015
 
-Ph.D. in Applied Mathematics \| May 2015
-
-[**Boğaziçi University**](http://www.boun.edu.tr/en_US)**\| Istanbul, Turkey**
-
-B.S. in Mathematics \| May 2008
+[**Boğaziçi University**](http://www.boun.edu.tr/en_US)**\| Istanbul, Turkey** \| B.S. in Mathematics \| May 2008
 
 ## Experience
 
-**Hamilton College**\| Visiting Assistant Professor\| July 2020 - Present
+[**Sepion Technologies**](https://sepiontechnologies.com/)\| Staff Data Scientist \| February 2023 - Present
+
+[**Hamilton College**](https://www.hamilton.edu/)\| Visiting Assistant Professor\| July 2020 - 2023
 
 [**SUNY Polytechnic Institue**](https://sunypoly.edu/)\| Lecturer\| September 2015 - May 2020
